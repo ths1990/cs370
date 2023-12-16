@@ -1,6 +1,6 @@
 # cs370
 
-#What do computer scientists do and why does it matter?
+# What do computer scientists do and why does it matter?
 Computer scientists, in respects to the learning of this class, design, program and deploy machine learning algorithms. The work that computer scientists do help make people's lives easier. 
 
 # How do I approach a problem as a computer scientist?
